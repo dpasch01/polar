@@ -1,5 +1,7 @@
 # POLAR: A Python Library for Polarization Analysis and Integration
 
+## Availability Status: <span style="colour:red">End of September</span> 
+
 ## Overview
 POLAR is a Python library designed for modeling, extracting, analyzing, and integrating polarization knowledge into machine learning tasks. It consists of three main components:
 
